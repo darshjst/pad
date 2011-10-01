@@ -54,7 +54,7 @@ else
                                 then
                                         JAVA_HOME=`echo $JAVA_EXE`
  else
-                                        echo "JAVA Version too old - Please install a new Java version"
+                                        echo "JAVA Version is too old - Please install a new Java version"
                                 fi
                         fi
                 fi
